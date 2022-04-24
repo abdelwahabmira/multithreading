@@ -1,0 +1,11 @@
+result matrix entries 
+-1 10 -15 -28 
+-3 -10 15 -36 
+5 -2 -9 -20 
+END1		0.029273
+
+result matrix entries 
+-1 10 -15 -28 
+-3 -10 15 -36 
+5 -2 -9 -20 
+END2		0.003406
